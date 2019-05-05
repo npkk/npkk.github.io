@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+    background-color: #BBBBFF;
+}
+
+header {
+    font-size: 32px;
+    margin: 20px 20px;
+    border-bottom: 3px solid #888888;
+}
+
+.section {
+    font-size: 20px;
+    margin: 20px 20px 20px 40px;
+}
+
+.section span{
+    border-bottom: 2px solid #444444;
+}
+
+.section li{
+    padding: 3px;
+}
+
+.subsection {
+    font-size: 18px;
+    margin: 20px 20px 20px 60px;
+    border-bottom: 1px solid #000000;
+}
