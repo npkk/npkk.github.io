@@ -1,6 +1,6 @@
 html {
     font-family: sans-serif;
-    background-color: #BBBBFF;
+    background-color: rgb(133, 190, 255);
 }
 
 header {
@@ -11,6 +11,10 @@ header {
 
 .section {
     font-size: 20px;
+    margin: 20px 20px 20px 40px;
+}
+
+.section p{
     margin: 20px 20px 20px 40px;
 }
 
