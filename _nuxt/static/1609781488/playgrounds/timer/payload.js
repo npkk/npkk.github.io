@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/playgrounds/timer", {data:[{}],fetch:[],mutations:void 0});
