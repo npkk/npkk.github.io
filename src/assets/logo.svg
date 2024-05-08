@@ -1,0 +1,18 @@
+<svg width="220.3" height="81.9" viewBox="0 0 220.3 81.9" xmlns="http://www.w3.org/2000/svg">
+    <g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#ffffff"
+        stroke-width="0.25mm" fill="#000000" style="stroke:#ffffff;stroke-width:0.4mm;fill:#000000">
+        <path
+            style="fill:#FFFFFF"
+            d="M 10.1 64.3 L 0 64.3 L 0 18.1 L 37.3 18.1 L 37.3 27.2 L 46.5 27.2 L 46.5 64.3 L 36.3 64.3 L 36.3 28.1 L 10.1 28.1 L 10.1 64.3 Z"
+            id="0" vector-effect="non-scaling-stroke" />
+        <path
+            d="M 68.7 81.9 L 58.6 81.9 L 58.6 27.2 L 67.7 27.2 L 67.7 18.1 L 95.9 18.1 L 95.9 27.2 L 105.1 27.2 L 105.1 55.3 L 95.9 55.3 L 95.9 64.3 L 68.7 64.3 L 68.7 81.9 Z M 68.7 28.1 L 68.7 54.3 L 94.9 54.3 L 94.9 28.1 L 68.7 28.1 Z"
+            id="1" vector-effect="non-scaling-stroke" />
+        <path
+            d="M 127.3 64.3 L 117.2 64.3 L 117.2 0 L 127.3 0 L 127.3 36.1 L 135.3 36.1 L 135.3 27.2 L 153.5 27.2 L 153.5 18.1 L 163.7 18.1 L 163.7 28.1 L 154.5 28.1 L 154.5 37.1 L 136.3 37.1 L 136.3 45.2 L 154.5 45.2 L 154.5 54.3 L 163.7 54.3 L 163.7 64.3 L 153.5 64.3 L 153.5 55.3 L 135.3 55.3 L 135.3 46.2 L 127.3 46.2 L 127.3 64.3 Z"
+            id="2" vector-effect="non-scaling-stroke" />
+        <path
+            d="M 183.9 64.3 L 173.8 64.3 L 173.8 0 L 183.9 0 L 183.9 36.1 L 191.9 36.1 L 191.9 27.2 L 210.1 27.2 L 210.1 18.1 L 220.3 18.1 L 220.3 28.1 L 211.1 28.1 L 211.1 37.1 L 192.9 37.1 L 192.9 45.2 L 211.1 45.2 L 211.1 54.3 L 220.3 54.3 L 220.3 64.3 L 210.1 64.3 L 210.1 55.3 L 191.9 55.3 L 191.9 46.2 L 183.9 46.2 L 183.9 64.3 Z"
+            id="3" vector-effect="non-scaling-stroke" />
+    </g>
+</svg>

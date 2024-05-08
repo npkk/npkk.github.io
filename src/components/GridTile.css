@@ -1,0 +1,24 @@
+.tile_container {
+    height: 100%;
+    width: 100%;
+    font-weight: 600;
+    border-radius: 1em;
+    transition-duration: 0.3s;
+}
+
+.tile_container:hover {
+    background-color: white;
+    color: black;
+}
+
+.tile__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: large;
+}
+
+.card__content {
+    display: none;
+}
