@@ -1,7 +1,7 @@
 import GridTile from './components/GridTile'
 import ContentModal from './components/ContentModal'
 import './index.css'
-import Logo from './assets/logo.svg'
+import Logo from '/logo.svg'
 import props from './contents/content'
 import { rootContext, useRootContext } from './contexts/contexts'
 
