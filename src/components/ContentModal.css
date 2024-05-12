@@ -16,6 +16,7 @@
 #contentmodal__body {
     width: 80vmin;
     height: 80vmin;
+    height: 80dvmin;
 
     font-weight: 400;
     border-radius: 1em;
@@ -24,6 +25,7 @@
 #contentmodal__content {
     padding-right: 1rem;
     max-height: 70vmin;
+    max-height: 80dvmin;
     overflow-y: scroll;
     scrollbar-width: 0;
 }
@@ -49,6 +51,7 @@
 #contentmodal__close {
     position: absolute;
     top: 95vh;
+    top: 95dvh;
     left: 50%;
     transform: translate(-50%, 0);;
 
