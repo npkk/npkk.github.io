@@ -6,6 +6,7 @@
 
 #root {
   width: 98vw;
+  width: 98dvw;
   height: 98vh;
   height: 98dvh;
   display: flex;
@@ -15,6 +16,7 @@
 
 #container {
   width: 98vmin;
+  width: 98dvmin;
   height: 98vmin;
   height: 98dvmin;
   display: flex;
@@ -27,6 +29,7 @@
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   width: 90vmin;
+  width: 90dvmin;
   height: 90vmin;
   height: 90dvmin;
 }
