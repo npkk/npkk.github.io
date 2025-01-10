@@ -20,17 +20,22 @@ function App() {
 				<div id="container">
 					<div id="grid-container" style={{ display: display }}>
 						<div id="npkk">
-							<img src={Logo}></img>
+							<img src={Logo} alt="npkk_logo" />
 						</div>
 						{props.map((prop) => {
 							return (
-								<div id={prop.id} onClick={() => onTileClick(prop.id)}>
-									<GridTile title={prop.title}></GridTile>
+								<div
+									key={prop.id}
+									id={prop.id}
+									onClick={() => onTileClick(prop.id)}
+									onKeyUp={() => onTileClick(prop.id)}
+								>
+									<GridTile title={prop.title} />
 								</div>
 							);
 						})}
 					</div>
-					<ContentModal></ContentModal>
+					<ContentModal />
 				</div>
 			</rootContext.Provider>
 		</>
